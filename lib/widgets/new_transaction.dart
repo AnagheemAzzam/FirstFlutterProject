@@ -47,7 +47,6 @@ class _NewTransactionState extends State<NewTransaction> {
       child: Card(
         elevation: 5,
         child: Container(
-          
           padding: EdgeInsets.only(
             top: 10,
             right: 10,
