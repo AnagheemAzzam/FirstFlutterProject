@@ -46,6 +46,7 @@ class _NewTransactionState extends State<NewTransaction> {
     return SingleChildScrollView(
       child: Card(
         elevation: 5,
+        
         child: Container(
           padding: EdgeInsets.only(
             top: 10,
